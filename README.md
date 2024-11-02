@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @ahmedkhagani.
-- 👀 I’m interested in alghorithms' optimization.
+- 👋 Hi, I’m @ahmedkh.
+- 👀 I’m math enthusiast.
 - 🌱 I’m currently learning algorithms and data structures.
 - 💞️ I’m not looking to collaborate on anything yet.
 - 📫 Contact me with ahmedkhagani93@gmail.com .
